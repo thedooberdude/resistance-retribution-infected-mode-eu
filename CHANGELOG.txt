@@ -1,0 +1,8 @@
+Resistance: Retribution — Infected Mode EU
+
+v1.0
+- First confirmed clean release.
+- Enables genuine Infected Mode on European UCES-01184.
+- Retains exact four-instruction compatibility guard.
+- Removes diagnostic file logging.
+- Does not modify the ISO or save data.
