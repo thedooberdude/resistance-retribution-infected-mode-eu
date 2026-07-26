@@ -19,7 +19,7 @@ A PSP plugin that enables the Infected Mode state in the European version (UCES-
 ## Installation
 
 1. Copy `resistance_retribution_infected_eu.prx` to `ms0:/SEPLUGINS/`
-2. Enable it as a GAME plugin in ARK-4.
+2. Enable it as a GAME plugin in ARK-4. (use plugins.txt from a text editor)
 3. Launch the game.
 
 ## Compatibility
@@ -29,8 +29,10 @@ This plugin contains a compatibility guard and is intended only for the verified
 ## Credits
 
 Reverse engineering, development and testing:
-Josh & OpenAI ChatGPT
+TheDooberdude & OpenAI ChatGPT
 Original game: Bend Studio / Sony Computer Entertainment
+
+Email: TheDooberdude@gmail.com
 
 ![Main Menu](images/main_menu.jpg)
 
