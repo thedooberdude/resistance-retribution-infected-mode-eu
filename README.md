@@ -31,5 +31,13 @@ This plugin contains a compatibility guard and is intended only for the verified
 Reverse engineering, development and testing:
 Josh & OpenAI ChatGPT
 
+
+![Main Menu](images/main_menu.jpg)
+
+![Intel Menu](images/intel_menu.jpg)
+
+![Infected Intel](images/infected_intel.jpg)
+
+![Gameplay](images/gameplay.jpg)
 Original game:
 Bend Studio / Sony Computer Entertainment
