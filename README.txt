@@ -61,8 +61,8 @@ It is not intended for US, Japanese, modified, or differently patched builds.
 
 Credits
 -------
-Reverse engineering, plugin development and testing: Josh & ChatGPT
-Hardware testing and validation: Josh
+Reverse engineering, plugin development and testing: TheDooberdude & ChatGPT
+Hardware testing and validation: TheDooberdude
 Original game: Bend Studio / Sony Computer Entertainment
 
 Version history
