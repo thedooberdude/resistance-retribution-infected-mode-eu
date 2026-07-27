@@ -30,6 +30,7 @@ This plugin contains a compatibility guard and is intended only for the verified
 
 Reverse engineering, development and testing:
 TheDooberdude & OpenAI ChatGPT
+
 Original game: Bend Studio / Sony Computer Entertainment
 
 Email: TheDooberdude@gmail.com
